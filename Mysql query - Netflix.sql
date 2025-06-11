@@ -149,7 +149,7 @@ LIMIT 10
 
 
 
-EOF 'actor', COUNT(*) AS appearances
+SELECT actor, COUNT(*) AS appearances
 FROM (
     SELECT TRIM(SUBSTRING_INDEX(SUBSTRING_INDEX(casts, ',', n.n), ',', -1)) AS actor
     FROM netflix
