@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 
-This project showcases** **SQL-based business insights**** extracted from a fictionalized Netflix dataset. It contains **15 business-focused queries** written in **MySQL**, helping understand user preferences, content trends, and platform offerings. The goal is to demonstrate **data analysis proficiency using SQL** on real-world media platform scenarios.
+This project showcases**SQL-based business insights** extracted from a fictionalized Netflix dataset. It contains **15 business-focused queries** written in **MySQL**, helping understand user preferences, content trends, and platform offerings. The goal is to demonstrate **data analysis proficiency using SQL** on real-world media platform scenarios.
 
 ---
 
